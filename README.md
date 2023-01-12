@@ -13,6 +13,11 @@ A posting site for the masses, nowadays profanity and scam is arising in social 
 
 # Self Host Postr
 
+## Requirements
+
+1. Pocketbase
+2. Js skills
+
 soon we will intergrate an simple to follow api system to host it at your own expense and use tools we add in near future
 
 

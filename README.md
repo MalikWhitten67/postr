@@ -1,7 +1,7 @@
 # postr
 Official github of https://postr.rf.gd/
 
-Last updated: 1/09/23
+Last updated: 1/13/23
 
 
 # Welcome
@@ -18,6 +18,15 @@ Welcome to Postr!, at postr we prioritize safety above all else. Post with peace
 1. Pocketbase
 2. Js skills
 
+
+
+# webhooks
+
+ ```js
+ // soon you will be able to request data from the api
+ 
+ 
+ ````
 soon we will intergrate an simple to follow api system to host it at your own expense and use tools we add in near future
 
 

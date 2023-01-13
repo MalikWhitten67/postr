@@ -8,7 +8,7 @@ Last updated: 1/09/23
 
 Welcome to Postr
 <br>
-A posting site for the masses, nowadays profanity and scam is arising in social media imagine a platform where even little children can grow their own community without worrying about abusive content! thats why postr was created [nah tbh it was mostly a personal project but may become big who knows! ]
+Welcome to Postr!, at postr we prioritize safety above all else. Post with peace of mind knowing that we have implemented strict measures to ensure a secure and trustworthy platform for all users. Join our community and share your thoughts, experiences, and moments with confidence. Safety first on our social media site.
 
 
 # Self Host Postr

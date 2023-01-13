@@ -6,8 +6,8 @@ Last updated: 1/09/23
 
 # Welcome
 
-Welcome to Postr
-<br>
+
+ 
 Welcome to Postr!, at postr we prioritize safety above all else. Post with peace of mind knowing that we have implemented strict measures to ensure a secure and trustworthy platform for all users. Join our community and share your thoughts, experiences, and moments with confidence. Safety first on our social media site.
 
 

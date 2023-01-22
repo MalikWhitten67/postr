@@ -17,6 +17,7 @@ Welcome to Postr!, at postr we prioritize safety above all else. Post with peace
 
 1. Pocketbase
 2. Js skills
+3. Astro js
 
 
 

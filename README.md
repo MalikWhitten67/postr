@@ -1,7 +1,12 @@
+
+
 # postr
 Official github of https://postr.rf.gd/
 
 Last updated: 1/13/23
+
+# Web frontend
+Built with <img src="https://astro.build/assets/press/full-logo-light.svg">
 
 
 # Welcome
